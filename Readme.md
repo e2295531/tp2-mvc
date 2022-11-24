@@ -28,3 +28,7 @@ npm composer install
 ## changer la valeur de {{path}}
 
 aller au 'library/twig.php' et changer la valeur de path par votre adresse local de serveur 
+
+## le lien vers webdev
+
+https://e2295531.webdev.cmaisonneuve.qc.ca/tp2-mvc
